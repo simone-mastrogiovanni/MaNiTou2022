@@ -12,9 +12,17 @@ We advise to fact the tutorials in the following order:
 
 # Running the tutorials
 
-## Google Colab
 
-We strongly advise to run the tutorials using [Google Colab](https://research.google.com/colaboratory/). This is an online service offered by Google that already contains many python packages. In the header of each notebook, you will find a link to the Google Colab version. Note that some notebooks require the installation of extra packages, in that case you will need to uncomment few lines on the notebook header.
+
+## Running on cloud platforms
+
+we strongly adivse you to run the tutorials on Cloud Platforms. We propose two solutions
+
+**MyBinder:** If you do not have a Google account, you load the repository by clickling on the MyBinder icon below. Once the repository is loaded, navigate in the `DA_handson` folder and start the notebooks that you want to try. Please, remember to uncomment the first lines to install the required packages.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simone-mastrogiovanni/MaNiTou2022/HEAD)
+
+**Google Colab:** If you have a Google account, you can use [Google Colab](https://research.google.com/colaboratory/). This is an online service offered by Google that already contains many python packages. In the header of each notebook, you will find a link to the Google Colab version. Note that some notebooks require the installation of extra packages, in that case you will need to uncomment few lines on the notebook header. To run the notebooks on Colab, simply click on the Colab link in the header of each notebook.
 
 ## Running in local
 
